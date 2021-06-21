@@ -1,0 +1,4 @@
+en:
+  stocks:
+    destroy:
+      success_message: Stock successfully deleted.
